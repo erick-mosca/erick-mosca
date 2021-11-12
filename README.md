@@ -1,10 +1,10 @@
 <div>
   <a href="https://github.com/erick-mosca">
-  <img src="https://github-readme-stats.vercel.app/api?username=erick-mosca&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=erick-mosca&show_icons=true&theme=dark&count_private=true">
 </div>
   
   ##
-<a href="https://www.linkedin.com/in/erickmosca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/erickmosca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&count_private=true" target="_blank"></a> 
 
   ##
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>

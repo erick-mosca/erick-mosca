@@ -1,9 +1,6 @@
 <div>
   <a href="https://github.com/erick-mosca">
   <img src="https://github-readme-stats.vercel.app/api?username=erick-mosca&count_private=true&theme=dark">
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-mosca">
-</div>
   
   ##
 <a href="https://www.linkedin.com/in/erickmosca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
